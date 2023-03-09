@@ -372,5 +372,5 @@
 </p>
 <br>
 <h3 align="left">Statistics:</h3>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dnadawa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="dnadawa" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dnadawa&theme=tokyonight&hide_border=false" alt="dnadawa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dnadawa&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" alt="dnadawa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dnadawa&theme=tokyonight&hide_border=false" alt="dnadawa" /></p>
